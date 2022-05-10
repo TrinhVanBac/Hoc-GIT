@@ -1,2 +1,3 @@
 khoi tao file2
 sua lan 1
+sua lan 2
