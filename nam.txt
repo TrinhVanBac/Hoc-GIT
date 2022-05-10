@@ -1,3 +1,7 @@
  ok get go
 Ta đã từng yêu nhau chưa. sao mọi chuyện như vậy
+<<<<<<< HEAD
 ok tao sai
+=======
+sao mọi chuyện như vậy
+>>>>>>> b3a2c45068e060d30dff45c50a18c24e3d49ca9a
